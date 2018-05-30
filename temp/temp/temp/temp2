@@ -1,1 +1,2 @@
-print(1)
+utiltools.writestartnum(23)
+fe2.insertData(2)
